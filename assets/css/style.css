@@ -1,0 +1,16 @@
+.clearfix::after {
+    display: block;
+    clear: both;
+    content: "";
+}
+.container {
+    width; 100%;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
