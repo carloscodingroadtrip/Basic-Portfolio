@@ -73,10 +73,6 @@ header {
   list-style: none;
 }
 
-
-
-
-
 #navigation a:hover {
   color: #F9CE62;
   font-size: 18px;
@@ -107,6 +103,7 @@ left {
 }
 article img {
   padding: 20px;
+  border-radius: 50%;
   float: left;
 }
 
